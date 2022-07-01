@@ -1,0 +1,23 @@
+[
+    {
+        "app":"Password Generator",
+        "description":"It generates passwords.",
+        "github":"https://github.com/jwhitehead08/password-gen.git",
+        "live":"https://react-bootstrap.github.io/layout/stack/",
+        "screenshot":"/images/placeholder.png"
+    },
+    {
+        "app":"Food Junkies",
+        "description":"All about food!",
+        "github":"https://github.com/jwhitehead08/password-gen.git",
+        "live":"https://react-bootstrap.github.io/layout/stack/",
+        "screenshot":"/images/placeholder.png"
+    },
+    {
+        "app":"Feels Like",
+        "description":"Weather makes you feel films!",
+        "github":"https://github.hewcom/jwhitehead08/password-gen.git",
+        "live":"https://react-bootstrap.github.io/layout/stack/",
+        "screenshot":"/images/placeholder.png"
+    }
+]
