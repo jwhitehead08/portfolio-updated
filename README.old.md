@@ -16,7 +16,7 @@ Make sure you have Node.js and express.js installed.
 Contact me with any questions at: jwhitehead08@gmail.com
 
 #### Deployed App
-[Deployed](https://quiet-waters-70285.herokuapp.com/)
+[Deployed](https://jwhitehead08.github.io/portfolio-updated/)
 
 ![screenshot] (public/images/Screen Shot 2022-07-01 at 4.36.00 PM.png)
 
