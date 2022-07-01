@@ -1,23 +1,45 @@
 [
-    {
-        "app":"Password Generator",
-        "description":"It generates passwords.",
-        "github":"https://github.com/jwhitehead08/password-gen.git",
-        "live":"https://react-bootstrap.github.io/layout/stack/",
-        "screenshot":"/images/placeholder.png"
-    },
+
     {
         "app":"Food Junkies",
         "description":"All about food!",
         "github":"https://github.com/jwhitehead08/password-gen.git",
-        "live":"https://react-bootstrap.github.io/layout/stack/",
-        "screenshot":"/images/placeholder.png"
+        "live":"https://murmuring-crag-27720.herokuapp.com/",
+        "screenshot":"/images/Feels.png"
     },
     {
         "app":"Feels Like",
         "description":"Weather makes you feel films!",
         "github":"https://github.hewcom/jwhitehead08/password-gen.git",
-        "live":"https://react-bootstrap.github.io/layout/stack/",
-        "screenshot":"/images/placeholder.png"
+        "live":"https://vtori37.github.io/Group-Project-1/",
+        "screenshot":"/images/Food.png"
+    },
+    {
+        "app":"Password Generator",
+        "description":"It generates passwords.",
+        "github":"https://github.com/jwhitehead08/password-gen.git",
+        "live":"https://www.nypl.org/",
+        "screenshot":"/images/image1.jpeg"
+    },
+    {
+        "app":"Key Pairs",
+        "description":"Piano Keys",
+        "github":"https://github.com/jwhitehead08/password-gen.git",
+        "live":"https://murmuring-crag-27720.herokuapp.com/",
+        "screenshot":"/images/image3.jpeg"
+    },
+    {
+        "app":"Views on Views",
+        "description":"My Views on Views",
+        "github":"https://github.hewcom/jwhitehead08/password-gen.git",
+        "live":"https://vtori37.github.io/Group-Project-1/",
+        "screenshot":"/images/image4.jpeg"
+    },
+    {
+        "app":"VacayWay",
+        "description":"Travel on.",
+        "github":"https://github.com/jwhitehead08/password-gen.git",
+        "live":"https://www.nypl.org/",
+        "screenshot":"/images/image5.jpeg"
     }
 ]

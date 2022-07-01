@@ -12,7 +12,7 @@ function Portfolio() {
 <CardGroup>
   {projects.map((element,key) => (
      <Card className="m-1 p-1" >
-     <Card.Img variant="top" src={process.env.PUBLIC_URL+element.screenshot}/>
+       <Card.Img variant="top" src={process.env.PUBLIC_URL+element.screenshot}/>
      <Card.Body>
        <Card.Title key={key}>{element.app}</Card.Title>
        <Card.Text>

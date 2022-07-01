@@ -5,6 +5,9 @@ import Contact from "./components/contact";
 import { useState } from 'react';
 import Portfolio from "./components/portfolio";
 
+import Footer from "./components/footer";
+import Resume from "./components/resume";
+
 function App() {
   const [currentPage, setcurrentPage] = useState('aboutme')
   const renderPage = () => {
@@ -14,6 +17,8 @@ function App() {
       return <Contact />
     } else if (currentPage === 'portfolio') {
       return <Portfolio />
+    } else if (currentPage === 'resume') {
+      return <Resume/>
     }
   }
   const renderCurrentPage =(page) =>{
@@ -21,9 +26,10 @@ function App() {
   }
   return (
     <div className="App">
-      <h1>Portfolio</h1>
      <Navigation currentPage={currentPage} renderCurrentPage = {renderCurrentPage}/>
      {renderPage()}
+
+      <Footer/>
     </div>
   );
 }
